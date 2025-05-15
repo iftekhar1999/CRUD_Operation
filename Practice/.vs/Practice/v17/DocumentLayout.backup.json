@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual_Studio\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\model\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\model\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\model\\update_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\model\\update_practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\services\\ipracticeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\services\\ipracticeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\services\\practiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\services\\practiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|e:\\visual_studio\\practice\\practice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A939089-EC95-48A4-9E9E-CA46B525F11C}|Practice\\Practice.csproj|solutionrelative:practice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeController.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Controllers\\PracticeController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\PracticeController.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Controllers\\PracticeController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\PracticeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:14:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:13:57.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "practice.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Model\\practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\practice.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Model\\practice.cs",
+              "RelativeToolTip": "Practice\\Model\\practice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:13:54.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update_practice.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Model\\update_practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Model\\update_practice.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Model\\update_practice.cs",
+              "RelativeToolTip": "Practice\\Model\\update_practice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:13:51.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPracticeService.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Services\\IPracticeService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\IPracticeService.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Services\\IPracticeService.cs",
+              "RelativeToolTip": "Practice\\Services\\IPracticeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:13:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "practiceService.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Services\\practiceService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\practiceService.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Services\\practiceService.cs",
+              "RelativeToolTip": "Practice\\Services\\practiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:13:45.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Practice\\WeatherForecast.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\WeatherForecast.cs",
+              "RelativeToolTip": "Practice\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:13:39.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual_Studio\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "E:\\Visual_Studio\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:00:30.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
